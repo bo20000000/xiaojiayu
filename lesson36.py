@@ -36,6 +36,6 @@ class Rectangle:
         return self.long*self.wide
 
 rectangle = Rectangle()
-rectangle.getRect()
-    
+rectangle.setRect()
+rectangle.getRect()  
         
